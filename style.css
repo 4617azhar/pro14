@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid #b40de7;
+    background:transparent;
+    width: 50%;
+}
+body{
+    background-image: url(he.webp);
+}
+
+button{
+    background-color: #1100ff;
+    border: none;
+    width: 50%;
+    cursor: pointer;
+    /* height: 50px; */
+}
+
+.main{
+    margin: 10%;
+}
